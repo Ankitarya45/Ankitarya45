@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-kumar-077a3b218/)
 
 <p align="center">
-	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=5A34BE&center=true&vCenter=true&random=true&width=435&lines=Standup+Comedian;Web+Developer+;Network+security+analysis+;Computing+Troubleshooter"></a>
+	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=5A34BE&center=true&vCenter=true&random=true&width=435&lines=Standup+Comedian;Web+Developer+;Network+security+analysis+;Computing+Troubleshooter;Trader"></a>
 </p>
 
 - 🌱 I’m currently learning everything 😎
@@ -11,7 +11,7 @@
 - <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> I’m looking to collaborate with other content creators
 	
 - 🥅 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw, play standup comedian & video games🎮
+- ⚡ Fun fact: I love to draw, play cricket & video games🎮
 
 ## Connect with me:
 <p align="left">
@@ -30,7 +30,7 @@
 </p>
 
 ---
-
+<div align="center"> <h2> 🔧💻📚Languages,Frameworks and Tools:🛠🔑🗃 </h2> </div>
 <p align="center">
 	<img src="./assets/images-removebg-preview.png"  alt="c++-programming" width="35px"  hspace="2" />
 	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/214440576e29a751d5d5cf18d0925fbd4430bb5a/assets/javascript-plain.svg"  alt="javascript" width="35px"  hspace="2" />    
