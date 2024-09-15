@@ -30,7 +30,7 @@
 </p>
 
 ---
-
+<div align="center"> <h2> 🔧💻📚Languages,Frameworks and Tools:🛠🔑🗃 </h2> </div>
 <p align="center">
 	<img src="./assets/images-removebg-preview.png"  alt="c++-programming" width="35px"  hspace="2" />
 	<img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/214440576e29a751d5d5cf18d0925fbd4430bb5a/assets/javascript-plain.svg"  alt="javascript" width="35px"  hspace="2" />    
