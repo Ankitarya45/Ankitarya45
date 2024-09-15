@@ -57,5 +57,5 @@
 
 ## GitHub Stats
 <p align="center">
-	<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ankitarya45a&theme=midnight-purple&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak" /></a>
+	<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ankitarya45&theme=midnight-purple&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak" /></a>
 </p>
